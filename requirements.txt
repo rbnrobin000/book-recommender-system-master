@@ -1,5 +1,5 @@
 flask
-pickle
+pickle-mixin==1.0.2
 numpy
 pandas
 gunicorn
